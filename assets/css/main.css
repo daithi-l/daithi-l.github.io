@@ -2195,6 +2195,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
+			border-radius: 50%;
 		}
 
 			.image.fit img {
